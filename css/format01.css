@@ -1,0 +1,26 @@
+body {background-color: rgb(206,213,216); color: black;}
+
+header{text-align: center;}
+#seccion1 { text-align:center;}
+#piepag{
+   margin-left: auto;
+   margin-right: auto;
+   text-align: left; /* Para que deje el texto dentro de la tabla hacia la izquierda */
+   }
+
+table{
+border-collapse: separate;   
+border:0px solid rgb(0, 127, 127); 
+}
+
+tr,td {
+   width: 300px;
+   text-align:center;
+   color: darkgreen;
+   background-color: aliceblue;
+   border:1px solid rgb(0, 127, 127); 
+   font-size:20px;
+   border-spacing:30px;
+}
+
+
